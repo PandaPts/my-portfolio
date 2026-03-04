@@ -17,3 +17,4 @@ function renderSkills(data, container) {
     container.appendChild(li);
   });
 }
+
